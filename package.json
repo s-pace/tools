@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "download": "node download_index.js",
-    "download_index": "node download_index.js"
+    "download_index": "node download_index.js",
+    "compare": "node compare.js"
   },
   "repository": {
     "type": "git",
