@@ -1,0 +1,22 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "Some tools I used",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-pace/tools.git"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "s-pace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-pace/tools/issues"
+  },
+  "homepage": "https://github.com/s-pace/tools#readme"
+}
